@@ -422,44 +422,9 @@
                     Your videos have been watched <b><?php echo $_video_fetch_utils->fetch_views_from_user($_SESSION['siteusername']); ?></b> times.
                 </div>
                 <?php } ?>
-                <!--
+                
                 <div class="whats-new">
-                    <h3>Better & improved forums</h3>
-                    <p class="whats-new-text">
-                        Proper UI consistency, more good design choices, and a redesign is in this update. Check the forums out since they won't melt your eyes out from how bad they are anymore.
-                    </p>
-                    
-                    <h3>Channel genres!</h3>
-                    <p class="whats-new-text">
-                        You now can set your channel genre to reach more people interested in that specific topic.
-                    </p>
-                  <h3>Video manager & video editor updates</h3>
-                    <p class="whats-new-text">
-                        Gave the video manager and edit video page a much needed patch up. The pages look a lot better now, and will actually make sense.
-                    </p>
-
-                    
-                    <h3>More updates</h3>
-                    <p class="whats-new-text">
-                        I had enough motivation to work on the site, and the front page looks much better than before. Expect more updates soon.
-                    </p>
-
-                    <h3>Spam prevention and more updates</h3>
-                    <p class="whats-new-text">
-                        I haven't used this section in a very very very long time. Here are the following things that have been added in the latest update from July 28th.<br><br>
-
-                        - added recaptcha to sign up<br>
-                        - added anti spam measures that should actually work<br>
-                        - added cooldown to inbox, channel page, and forums<br>
-                        - made admin tools actually redirect to /admin/ when did an action<br>
-                        - implemented proper error handling for stuff regarding signup & login<br>
-                        - merged fixed css by @glicz (thanks as always)<br>
-                        - added deleting replies so it didn't error
-                    </p>
-                -->
-        
-
-                    <h3>What's New</h3>
+                   <h3>What's New</h3>
                     <p class="whats-new-text">
                         VapeTube is out! If you're seeing this... This is a YouTube recreation during 2009. VapeTube welcomes anyone.<br><br><b>Have fun!</b>
                     </p>
